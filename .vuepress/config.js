@@ -1,6 +1,7 @@
 module.exports = {
   title: "麻雀计划",
   discription: "前端知识图谱",
+  base:"/",
   markdown: {
     lineNumbers: true
   },
